@@ -1,2 +1,2 @@
-# Python-Matlab-Simulink
-Working together
+# Alternatives of MATLAB using python
+
